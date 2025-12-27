@@ -58,8 +58,3 @@ I'm a passionate developer and digital creator who loves experimenting with new 
 - Mobile development (Android Studio & Kotlin)
 - Python & full-stack web development
 - Experimenting with new tools and frameworks
-
----
-
-## 📫 Contact Me
-- GitHub: [manucarde2](https://github.com/manucarde2)  
