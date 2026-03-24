@@ -1,4 +1,4 @@
-# Hi, I'm Manucarde2 👋
+# Hi, I'm manucarde2 👋
 
 I'm a passionate developer and digital creator who loves experimenting with new technologies and building projects ranging from games to web applications.
 
